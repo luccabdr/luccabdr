@@ -15,8 +15,6 @@ Tech Stack
 </p>
 
 
-Currently Learning
-
 Python programming
 
 Data manipulation with Pandas
