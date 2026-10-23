@@ -1,4 +1,4 @@
-Hi, I'm Lucca Belloni Del Rey 👋
+Hi👋
 
 Python Developer in Progress | Automation & Data Analysis
 
