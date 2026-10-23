@@ -14,27 +14,6 @@ Tech Stack
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-Featured Project
-
-📊 Excel Spreadsheet Consolidator
-
-A Python application that automates the consolidation of sales spreadsheets and generates organized revenue reports.
-
-Features
-
-Automatically reads multiple Excel files.
-
-Combines sales data into a single dataset.
-
-Calculates revenue for each transaction.
-
-Generates reports by salesperson, store, and month.
-
-Exports the results to a structured Excel workbook.
-
-Built with: Python, Pandas, and OpenPyXL.
-
-
 
 Currently Learning
 
