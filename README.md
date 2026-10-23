@@ -1,10 +1,10 @@
-Hi👋
+## Olá! 👋
 
-Python Developer | Automation & Data Analysis
+**Desenvolvedor Python | Automação de planilhas e relatórios**
 
-I'm building my skills in Python, process automation, and data analysis, with a focus on developing practical solutions that simplify tasks and improve productivity.
+Automatizo tarefas repetitivas com Python e Excel para economizar tempo e reduzir erros em planilhas e relatórios.
 
-Tech Stack
+## 🛠️ Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -14,20 +14,21 @@ Tech Stack
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
+## 🚀 O que eu faço
 
-Python programming
+- Junto várias planilhas em um único relatório
+- Padronizo e valido os dados antes de gerar os números
+- Automatizo rotinas com Python, Pandas e Power Automate
+- Organizo meus projetos com Git e GitHub
 
-Data manipulation with Pandas
+## 📂 Projetos
 
-Excel automation
+- [Consolidador de Planilhas](https://github.com/luccabdr/Consolidador-Planilhas): lê planilhas de vendas de vários meses, avisa quando algo está fora do padrão e gera um relatório por vendedor, loja e mês.
 
-Git and GitHub
+Novos projetos em breve.
 
-Building practical software projects
+## 📬 Contato
 
-Goals
+- E-mail: luccabdr@gmail.com
 
-Build useful projects, and develop reliable solutions through programming and automation.
-
-<p align="center">
-  <i>Learning by building. Improving with every project.</i>
+<p align="center"><i>Aprendendo construindo. Melhorando a cada projeto.</i></p>
