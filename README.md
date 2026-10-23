@@ -27,7 +27,7 @@ Building practical software projects
 
 Goals
 
-My goal is to keep learning, build useful projects, and develop reliable solutions through programming and automation.
+Build useful projects, and develop reliable solutions through programming and automation.
 
 <p align="center">
   <i>Learning by building. Improving with every project.</i>
