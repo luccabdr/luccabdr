@@ -1,0 +1,5 @@
+ Hi, 👋
+
+Python Developer in Progress | Automation & Data Analysis
+
+I'm developing my programming skills, focusing on Python, process automation, and data analysis. My goal is to build practical solutions that simplify tasks and improve productivity.
