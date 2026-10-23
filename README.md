@@ -21,12 +21,6 @@ Automatizo tarefas repetitivas com Python e Excel para economizar tempo e reduzi
 - Automatizo rotinas com Python, Pandas e Power Automate
 - Organizo meus projetos com Git e GitHub
 
-## 📂 Projetos
-
-- [Consolidador de Planilhas](https://github.com/luccabdr/Consolidador-Planilhas): lê planilhas de vendas de vários meses, avisa quando algo está fora do padrão e gera um relatório por vendedor, loja e mês.
-
-Novos projetos em breve.
-
 ## 📬 Contato
 
 - E-mail: luccabdr@gmail.com
