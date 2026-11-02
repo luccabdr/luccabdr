@@ -61,5 +61,4 @@ Transformo tarefas repetitivas em robôs, crio sites que vendem e ajudo pequenas
 - **BDR Digital:** [bdrdigital.github.io](https://bdrdigital.github.io) · [bdrdigital.studio@gmail.com](mailto:bdrdigital.studio@gmail.com) · [@bdrdigital_](https://instagram.com/bdrdigital_)
 
 <p align="center"><i>Aprendendo construindo. Melhorando a cada projeto.</i></p>
-BDR Digital: bdrdigital.github.io · bdrdigital.studio@gmail.com · @bdrdigital_
-<p align="center"><i>Aprendendo construindo. Melhorando a cada projeto.</i></p>
+
